@@ -21,6 +21,7 @@ Make a logistic regression model to predict churn of customers
 15. total international calls made 
 16. total international charge
 17. number of customer service calls made 
+18. State
 
 # Target Variable
 1. move: if the customer has moved (1=yes; 0 = no) 
